@@ -10,5 +10,5 @@ public class Animal {
 	String getMovementType() {
 		return "";
 	}
-	
+		
 }

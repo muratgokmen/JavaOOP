@@ -10,6 +10,9 @@ public class Main {
 		
 		Dog dog = new Dog();
 		dog.speak();
+		
+		Animal animal = new Bird();
+		System.out.println(animal.getMovementType()); // Bird class => getMovementType() 
 
 	}
 

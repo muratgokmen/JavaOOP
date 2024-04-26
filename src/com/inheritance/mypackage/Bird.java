@@ -10,4 +10,8 @@ public class Bird extends Animal {
 		return movementType;
 	}
 	
+	void howFly() {
+		System.out.println("Flying type one....");
+	}
+	
 }
